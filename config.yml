@@ -6,3 +6,4 @@ service:
   environment: dev
   timeout: 30
   max_connections: 100
+  retries: 3
