@@ -1,1 +1,4 @@
-echo "Je suis la version numéro 1"
+#!/bin/bash
+set -e
+echo "Déploiement du service web..."
+echo "Déploiement terminé."
